@@ -1,0 +1,150 @@
+[
+  {
+    "response_type": "answer",
+    "user_input": ["natutugunan","pagkain", "masusustansiyang", "pagkain", "kahit ano", "kahit na ano", "prutas"],
+    "bot_response": [
+      "Tama ang iyong kasagutan at para naman sa akin, mahalaga ang pagkakaroon ng balanse at tamang pagkain ng mga masusustansiyang pagkain o prutas.",
+      "Tama! Para naman sa akin isa sa mga paraan ko ay ang pagkakaroon ng variety sa aking diet para makuha ang iba't ibang nutrients sa mga iba't ibang masusustansiyang pagkain o prutas"
+    ],
+    "bot_recommendation": [
+      "Subukan mo ang pagluluto ng mga exotic na prutas para naman maiba ang iyong panlasa.",
+      "Maglagay ka ng mga nuts sa iyong salad para naman sa karagdagang protina para mapanatili ang iyong lakas ng kalamnan."
+    ],
+    "required_words": []
+  },
+  {
+    "response_type": "answer",
+    "user_input": ["paborito", "pampalinaw", "pampalakas", "pampatibay", "masarap", "gulay", "chopsuey", "pinakbet", "prutas"],
+    "bot_response": [
+      "Sarap naman niyan!",
+      "Sarap naman ng mga nabanggit mo at sobrang sustansiya pa!"
+    ],
+    "bot_recommendation": [
+      "Kapag pinagpatuloy mong kainin ang mga masusustansiyang pagkain na kinakain mo ay tiyak na makakapagpahaba ito ng iyong buhay.",
+      "Marami pang mga ibang putahe na tiyak iyong magugustuhan gaya ng beef brocolli at ratatouille.",
+      "Laging tandaan ang conceptong balanse diet upang mapunan mo ang mga pangangailangan ng iyong katawan."
+    ],
+    "required_words": []
+  },
+  {
+    "response_type": "answer",
+    "user_input": ["paborito","naglalaro","bagay","positibong","tao","ibang","pakikipagusap","pagiging", "positibo", "positive", "sapat", "mainam", "tulog", "kain", "pagkain", "pahinga","kain lang nang kain", "kain nang kain", "libang", "unwind", "paglilibang", "maglibang", "mamasyal", "pumasyal", "pakikipag usap", "usap", "halubilo", "pakiki halubilo", "halubilo", "sumasama", "pagsama"],
+    "bot_response": [
+      "Aba ayos iyan! Kung ako'y tao lang din, iyan lang din ang aking palaging gagawin.",
+      "Maigi naman kung ganon!",
+      "Ikinagagalak ko ang iyong naging sagot!"
+    ],
+    "bot_recommendation": [
+      "Sa panahon ngayon marami ng naiistress kaya tama lang ang mga naisip mong gawin ngunit puwede mo pang gawin ang ibang bagay tulad ng pag-iisip ng masasayang bagay, pagdadasal, at iba pang mga positibong bagay upang mawala ang stress mo sa buhay.",
+      "Sa pang araw araw laging tingnan ang mabubuting parte ng mga bagay bagay upang mas maunawaan ito at hindi magdulot ng stress sa iyo.",
+      "Laging isipin na sa kahit na anong problema ay palaging may solution"
+    ],
+    "required_words": []
+  },
+  {
+    "response_type": "answer",
+    "user_input": ["weights", "pagsasayaw","pagsayaw","jojogging", "pushup", "push-up", "pawis", "stretching", "nagpapapawis", "excercise", "eexcercise", "ehersisyo", "lagi", "palagi", "pagbubuhat", "buhat"],
+    "bot_response": [
+      "Aba sana all! Tiyak na napakaganda ng mga ginagawa mo!",
+      "Nice one! Sa iyong ehersisyong ginagawa ay tiyak akong ikaw ay magiging masigla at malakas."
+    ],
+    "bot_recommendation": [
+      "Bigyang tuon din ang calorie intake upang kung mayroon kang tinatahak na goal gaya ng pagdagdago pagbabawas ng timbang.",
+      "Wag kakalimutang uminom ng tubig pagkatapos mag ehersisyo."
+    ],
+    "required_words": []
+  },
+  {
+    "response_type": "answer",
+    "user_input": ["matulog","gadgets","gumamit ng","masyadong","wag","pagtigil","pagbabasa ng libro","pakikinig sa musika", "pito hanggang walong", "tulog", "7-8", "hours", "hrs", "maaga", "masustansiyang", "gatas", "kape", "pagiwas", "pag iwas", "iwas", "inom", "pagtulog"],
+    "bot_response": [
+      "Isa sa mga nakakatulong yan sa pagkakaroon ng magandang tulog kaya goodnight muah!"
+    ],
+    "bot_recommendation": [
+      "Para mas magkaron ng maayos at magandang tulog ay nakabase rin ito sa puwesto ng iyong katawan tulad ng paghiga sa kaliwang bahagi at maayos na temperatura.",
+      "Laging tandaan ang importansya ng kompletong tulog"
+    ],
+    "required_words": []
+  },
+  {
+    "response_type": "answer",
+    "user_input": ["tukso","umiwas", "pag iwas", "iwas", "lumayo", "paglayo", "bisyo", "paligid", "bawasan"],
+    "bot_response": [
+      "Dapat lang talaga na umiwas o lumayo sa mga bisyo sa paligid dahil ito ay nakakasama ng kalusugan.",
+      "Tama, dahil ang mga iyan walang maidudulot na mabuti para sa iyo."
+    ],
+    "bot_recommendation": [
+      "Kung meron kang bisyo maaari mo itong bawasan paunti unti, kapag wala naman ay wag mo na itong subukan.",
+      "Ang kahit na anong sobra ay masama kaya hindi dapat matutong gumamit o malulong sa bisyo."
+    ],
+    "required_words": []
+  },
+  {
+    "response_type": "answer",
+    "user_input": ["disiplina","diet", "excercise", "magbawas", "kumain", "tama", "masustansiyang", "pagkain", "hinay hinay", "tamang", "kainin"],
+    "bot_response": [
+      "Mabuti ang iyong mga sinabi upang mapanatili ang iyong tamang timbang.",
+      "Tama magandang paraan yan upang ma-maintain mo ang iyong timbang."
+    ],
+    "bot_recommendation": [
+      "Umiwas sa pagkain ng sobra ng mga matatamis na pagkain dahil isa ito sa nakakadagdag ng timbang.",
+      "Umiwas sa mga matatabang pagkain dahil sanhi nito ang pagkakaroon ng taba at pagtaas ng cholesterol sa katawan na maaaring magdagdag sa iyong timbang at ikasanhi ng pagka atake sa puso.",
+      "Huwag kalimutan kumain ng pagkaing mayaman sa protina at mag ehersisyo araw-araw."
+    ],
+    "required_words": []
+  },
+  {
+    "response_type": "answer",
+    "user_input": ["maglinis","tamang","basurahan","huwag","magtapon","wag","kalat", "pagwawalis", "paglilinis", "kalat", "dumi", "pinagkainan", "pagiimis", "pag iimis"],
+    "bot_response": [
+      "Maigi nga na ginagawa mo iyan para mas nakakatulong tayo sa kalikasan at kapaligiran kasama na rin ang iyong sarili para sa malinis at maaliwalas na kapaligiran.",
+      "Very Good! Sa iyong gawaing iyan ay tiyak ang kalinisan ng ating kapaligiran."
+    ],
+    "bot_recommendation": [
+      "Maaari ka din tumulong o maglinis hindi lamang sa iyong bahay o kapaligiran dahil puwede ka rin tumulong na mapanatiling malinis ang ibang kapaligiran tulad ng inyong baranggay o ibang bahay.",
+      "Huwag kalimutang isegregate o paghiwa-hiwalayin ang nabubulok sa hindi nabubulok."
+    ],
+    "required_words": []
+  },
+  {
+    "response_type": "answer",
+    "user_input": ["love","siya","si ano","maglaro", "maging", "positibo", "maglibang", "masaya", "makasama", "pamilya", "kaibigan"],
+    "bot_response": [
+      "Mukhang masaya nga iyan lalo na kung nakakasama mo ang iyong pamilya at kaibigan, kasama na rin ang paglalaro.",
+      "Naol masaya!",
+      "Yiee smile naman jan."
+    ],
+    "bot_recommendation": [
+      "May mga bagay ka pa na puwedeng gawin bukod sa iyong mga nabanggit para magbigay kasiyahan at kaligayahan sa iyo tulad ng pagkain ng mga masasarap na pagkain, pumasyal sa paborito mong lugar, at marami pang iba.",
+      "Mas gumaganda o pumopogi ka kapag ikay nakangiti."
+    ],
+    "required_words": []
+  },
+  {
+    "response_type": "answer",
+    "user_input": ["pagmamanage","management","time","unahin", "taposin", "tapusin", "priorities", "priority", "maaga", "unahin", "una", "unang", "agad", "gawain", "madaling", "mahirap"],
+    "bot_response": [
+      "Tama, wag kakalimutan ang sarili o mga priorities dahil ang tunay na healty ay isang taong masaya sa kanyang buhay."
+    ],
+    "bot_recommendation": [
+      "Mahalaga na ilagay ang sarili sa unang-priority. Kung may mga araw na puno ng gawain, mahalaga na bigyan mo ng oras ang iyong sarili bago ang iba.",
+      "Maglaan ng oras palagi para sa sarili dahil ang pinaka magandang investment sa buhay ay ang sarili mo.",
+      "Mahalaga na matapos ng maaga ang ibang mga gawain upang mabigyan mo ng oras ang iba pang mga gawain."
+    ],
+    "required_words": []
+  },
+  {
+    "response_type": "answer",
+    "user_input": ["pagdadasal","meditate", "pagtulog", "maaga", "balanseng", "pagkain", "pag aaral", "pag-aaral", "pagkakaroon", "pag memeditate", "pagkakaroon", "pagpapahinga", "pahinga", "sapat"],
+    "bot_response": [
+      "Iyan ang kabuuan ng iyong mga kasagutan at tama na ang pagmamaintain ng isang malusog na lifestyle ay mahalaga para sa pangkalahatang kagalingan.",
+      "Iyan, pagpatuloy mo lang ang mga iyan upang ikaw ay maging isang malusog at masiglang tao."
+    ],
+    "bot_recommendation": [
+      "Maaari mong konsultahin ang isang propesyonal na dietitian o nutrisyonista upang makatanggap ng personal na gabay sa tamang pagkain na tugma sa iyong pangangailangan.",
+      "Maaari mong subukan ang pagbuo ng bagong hobbies o pagpapalawak ng mga existing na interes. Ang pagiging aktibo sa mga bagay na nagbibigay saya sa'yo ay makakatulong sa iyong overall na kasiyahan.",
+      "Laging isa alang alang ang mga importanteng bagay kesa sa mga regular na gawain o ritual."
+    ],
+    "required_words": []
+  }
+]
